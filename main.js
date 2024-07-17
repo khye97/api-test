@@ -1,4 +1,4 @@
-const API_KEY = `ttbqhfhfh3691231001`
+const API_KEY = `개인 api key`
 let bookList = [];
 
 // 아래는 원본 코드 : 혹시 몰라 남겨둡니다. 작업할땐 무시하셔도 됩니다.
